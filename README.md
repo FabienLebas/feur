@@ -12,7 +12,7 @@ It is indeed a good example to learn Python. Including:
 
 Here is how it works:
 
-1- Fetch tweets containing a word ("Quoi" or "Pourquoi" in our example): **getTweets**
+1- Fetch tweets containing a word ("Quoi" or "Pourquoi" in our example): **getTweets** 
 
 2- Select the tweets ending with the searched word. If "Quoi" is not the last word, then you can't say "Feur": **tweetsEligible**
 
@@ -34,4 +34,6 @@ Here is how it works:
 
 7- Process all eligible tweets, one by one: **oneBatchOfAnswers**
 
-You must have a .env file containing your secrets, in the same format as the example.env file
+You must have a .env file containing your secrets, in the same format as the example.env file. 
+
+Have a look at the [Twitter API documentation](https://developer.twitter.com/en/docs/twitter-api/tweets/search/introduction) to understand how you can get your credentials. For free, of course! 
