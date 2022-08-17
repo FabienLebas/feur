@@ -1,5 +1,5 @@
 # feur
-A French child's game: you answer 'Feur' when someone ends a phrase by 'quoi'. Automated research and answer of tweets via the Twitter API.
+A French child's game: you answer 'Feur' when someone ends a sentence by 'quoi'. Automated research and answer of tweets via the Twitter API.
 
 In French, hairdresser is said "Coiffeur". "Quoi" means "What". "Feur" means nothing. Children play by answering "Feur" every time someone ends a phrase by "Quoi".
 This repo was built as a tutorial for my son to learn Python.
